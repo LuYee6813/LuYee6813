@@ -8,7 +8,8 @@
 # About Me 🐱
 Hi ~ I'm LuYee6813 👋 
 Now studying in the school of Computer Science and Information Engineering, National Taiwan University of Science and Technology 
-https://www.ntvs.ntpc.edu.tw/var/file/0/1000/img/150/messageImage_1641039988441.jpg
+
+![](https://i.imgur.com/kgWgJV5.png)
 
 # Education
 - NTUST CSIE
