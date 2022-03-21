@@ -10,6 +10,5 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 # Competition Experience 🏆
 - National Skills Competition Cyber Security 1st 🏅️
 
-![Metrics](https://metrics.lecoq.io/LuYee6813?template=classic&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTaipei)
-
-
+# Status 3D
+![Metrics](https://metrics.lecoq.io/LuYee6813?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTaipei)
