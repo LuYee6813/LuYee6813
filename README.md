@@ -12,5 +12,5 @@
 # Competition Experience 🏆
 - National Skills Competition - Cyber Security category 1st 🏅️
 - National Research Project Competition - Electrical Engineering and Electronic Engineering Group 1st 🏅️ 
-    - ![Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
+    - [Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
 
