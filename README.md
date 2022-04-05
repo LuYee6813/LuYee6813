@@ -20,4 +20,4 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 - National Skills Competition - Cyber Security category 1st 🏅️
 - National Research Project Competition - Electrical Engineering and Electronic Engineering Group 1st 🏅️ - [Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
 
-![] (https://github.com/LuYee6813/LuYee6813/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/LuYee6813/LuYee6813/blob/output/github-contribution-grid-snake.svg)
