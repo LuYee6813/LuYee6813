@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+# My Status ✨
+![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=nord&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYee6813&theme=nord&layout=compact&card_width=445)
+
+![](https://github.com/LuYee6813/LuYee6813/blob/output/github-contribution-grid-snake.svg)
+
+>>>>>>> edb56d7628c27faf05a0c5dc4e2598e83a2d1204
 # About Me 🐱
 Hey ~ I'm LuYee6813 👋  Is a Taiwnanese  🇹🇼 
 Now studying in the school of Computer Science and Information Engineering, National Taiwan University of Science and Technology 
@@ -11,6 +21,7 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 - National Skills Competition - Cyber Security category 1st 🏅️
 - National Research Project Competition - Electrical Engineering and Electronic Engineering Group 1st 🏅️ - [Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
 
+<<<<<<< HEAD
 # My Status ✨
 ![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=nord&show_icons=true)
 
@@ -21,3 +32,5 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 
 
 
+=======
+>>>>>>> edb56d7628c27faf05a0c5dc4e2598e83a2d1204
