@@ -13,8 +13,8 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 
 
 ## My Status ✨
-![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=blue-green&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=dark&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYee6813&theme=blue-green&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYee6813&theme=dark&layout=compact&card_width=445)
 
 ![](https://github.com/LuYee6813/LuYee6813/blob/output/github-contribution-grid-snake.svg)
