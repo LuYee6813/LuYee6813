@@ -15,7 +15,7 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 ## My Status ✨
 ![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=nord&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=LuYee6813&theme=dark&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYee6813&theme=nord&layout=compact&card_width=445)
 
