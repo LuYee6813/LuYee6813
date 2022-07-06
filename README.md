@@ -1,6 +1,6 @@
 ## About Me 🐱
-Hey ~ I'm LuYee6813 👋  Is a Taiwnanese  🇹🇼 
-Now studying in the school of Computer Science and Information Engineering, National Taiwan University of Science and Technology 
+Hey ~ I'm LuYee6813 👋 I am a Taiwanese 🇹🇼 
+Now studying in the school of Computer Science and Information Engineering, National Taiwan University of Science and Technology
 
 ## Education 🏫
 - NTUST CSIE
