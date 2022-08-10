@@ -20,3 +20,7 @@ Now studying in the school of Computer Science and Information Engineering, Nati
 ![](https://github.com/LuYee6813/LuYee6813/blob/output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://metrics.lecoq.io/LuYee6813?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTaipei)
+
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=LuYee6813&row=1&column=3&no-frame=true&no-bg=true" />
+</div>
