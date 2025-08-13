@@ -1,18 +1,14 @@
-## About Me 🐱
-Hey ~ I'm LuYee6813 👋 
+## About Me 
+Hey ~ I'm LuYee6813  
 Now studying in the school of Computer Science and Information Engineering at National Taiwan University of Science and Technology. Currently, 
 I'm passionate about researching industrial control cybersecurity.
 
-## Education 🏫
-- NTUST CSIE
-- NTVS CS
+## Competition Experience 
+- World Skills Competition - Cyber Security Finalist 
+- National Skills Competition - Cyber Security category 1st 
+- National Research Project Competition - Electrical and Electronic Category 1st  - [Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
 
-## Competition Experience 🏆
-- World Skills Competition - Cyber Security Finalist 🕵️‍♂️
-- National Skills Competition - Cyber Security category 1st 🏅️
-- National Research Project Competition - Electrical and Electronic Category 1st 🏅️ - [Demo Video](https://www.youtube.com/watch?v=RBECyGg3n4c)
-
-## Practical Experience 💡
+## Practical Experience 
 - IEC 62443-4-2
 - IEC 62443-4-1
 - IEC 62443-3-3
