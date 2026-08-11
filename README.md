@@ -12,7 +12,6 @@ I'm passionate about researching industrial control cybersecurity.
 - IEC 62443-4-2
 - IEC 62443-4-1
 - IEC 62443-3-3
-- IEC 62443-3-2
 - IEC 62443-2-4
 
 I facilitated the implementation of IEC 62443 2-4 and IEC 62443 3-3 at the National Taiwan University of Science and Technology Industry 4.0 Center, contributing to the center's international certification achievement
